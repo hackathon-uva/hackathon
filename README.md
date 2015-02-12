@@ -15,7 +15,10 @@ You can find assorted resources for working with the LRS at the <a href="http://
 
 ## Open Onderwijs API
 
+An instance of the SURFnet <a href="https://github.com/SURFnet/OpenOnderwijsAPI">Open Onderwijs API</a> will be hosted at
+
 <placeholder-2>
 
+SURFnet provides client-libraries for <a href="https://github.com/SURFnet/OpenOnderwijsAPI-js">JavaScript</a>, <a href="https://github.com/SURFnet/OpenOnderwijsAPI-java">Java</a>, and <a href="https://github.com/SURFnet/OpenOnderwijsAPI-ios">iOS</a>.
 
 ## test
