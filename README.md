@@ -10,7 +10,7 @@ This LRS is an instance of <a href="https://github.com/Apereo-Learning-Analytics
 
 Please note that transport is non-secure so do not store sensitive information there. Also assume all other participants can see your entries anyway :-)
 
-You can find assorted resources for working with the LRS at the <a href="http://tincanapi.com/page-developers/"> Tin Can API Developers page</a>. This includes client libraries for multiple programming languages.
+You can find assorted resources for working with the LRS at the <a href="http://tincanapi.com/page-developers/"> Tin Can API Developers page</a>. It includes client libraries for multiple programming languages.
 
 
 ## Open Onderwijs API
