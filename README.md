@@ -24,7 +24,7 @@ An instance of the SURFnet <a href="https://github.com/SURFnet/OpenOnderwijsAPI"
 
 This API will respond to standard HTTP/1.1 requests with appropriately-formatted data. (An OPTIONS request will return several valid Content-Types for both in- and output, of which it warrants mentioning that the only one appearing in both lists is `"application/json"`.)
 
-SURFnet provides client-libraries for <a href="https://github.com/SURFnet/OpenOnderwijsAPI-js">JavaScript</a>, <a href="https://github.com/SURFnet/OpenOnderwijsAPI-java">Java</a>, and <a href="https://github.com/SURFnet/OpenOnderwijsAPI-ios">iOS</a>.
+As an alternative to rolling your own API requests, SURFnet provides client-libraries for <a href="https://github.com/SURFnet/OpenOnderwijsAPI-js">JavaScript</a>, <a href="https://github.com/SURFnet/OpenOnderwijsAPI-java">Java</a>, and <a href="https://github.com/SURFnet/OpenOnderwijsAPI-ios">iOS</a>.
 
 ## Other
 
