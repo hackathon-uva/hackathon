@@ -8,7 +8,7 @@ http://46.149.27.91:8080/larissa/xAPI/
 
 API documentation can be found <a href="https://github.com/adlnet/xAPI-Spec/blob/1.0.1/xAPI.md#stmtapi">here</a> as part of the Experience API (xAPI) <a href="https://github.com/adlnet/xAPI-Spec/blob/1.0.1/xAPI.md">1.0.1 specification</a>. Please note that the LRS in place (<a href="https://github.com/Apereo-Learning-Analytics-Initiative/Larissa/">Larissa LRS</a>) only implements the Statements-API (endpoint /statements), as noted in the <a href="https://github.com/Apereo-Learning-Analytics-Initiative/Larissa/blob/master/README.md#xapi-coverage">README</a>.
 
-credentials for the API are larissa/lrstester
+The LRS comes pre-filled with some generated data to get you started. Credentials for the API are larissa/lrstester.
 
 ### Assorted Resources for interacting with the LRS:
 
@@ -16,7 +16,7 @@ credentials for the API are larissa/lrstester
 
 * <a href="https://github.com/adlnet/xAPI-Dashboard">xAPI-Dashboard</a>. A JavaScript-library for xAPI analysis and chart-generation.
 
-
+* some standard verbs for the LRS can be found <a href="http://www.adlnet.gov/expapi/verbs/">here</a>.
 
 ## Open Onderwijs API
 
@@ -31,3 +31,4 @@ As an alternative to rolling your own API requests, SURFnet provides client-libr
 ## Other
 
 * <a href="https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm">Postman REST client</a>. A nice tool to verify API interaction.
+
