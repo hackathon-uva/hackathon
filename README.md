@@ -2,9 +2,11 @@
 
 ## Learning Record Store (LRS)
 
-We will provide access to a LRS for the hackathon. The API endpoint for the LRS is
+We will provide access to a LRS for the hackathon. The API for the LRS can be found at
 
-http://46.149.27.91:8080/larissa/xAPI/
+http://46.149.27.91:8080/larissa/xAPI/statements
+
+NB the endpoint for any library is probably the URL minus the statements-part.
 
 API documentation can be found <a href="https://github.com/adlnet/xAPI-Spec/blob/1.0.1/xAPI.md#stmtapi">here</a> as part of the Experience API (xAPI) <a href="https://github.com/adlnet/xAPI-Spec/blob/1.0.1/xAPI.md">1.0.1 specification</a>. Please note that the LRS in place (<a href="https://github.com/Apereo-Learning-Analytics-Initiative/Larissa/">Larissa LRS</a>) only implements the Statements-API (endpoint /statements), as noted in the <a href="https://github.com/Apereo-Learning-Analytics-Initiative/Larissa/blob/master/README.md#xapi-coverage">README</a>.
 
