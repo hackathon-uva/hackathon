@@ -4,9 +4,11 @@
 
 We will provide access to a LRS for the hackathon. The API endpoint for the LRS is
 
-[placeholder-1]
+http://46.149.27.91:8080/larissa/xAPI/
 
-API documentation can be found <a href="https://github.com/adlnet/xAPI-Spec/blob/1.0.1/xAPI.md#stmtapi">here</a> as part of the Experience API (xAPI) <a href="https://github.com/adlnet/xAPI-Spec/blob/1.0.1/xAPI.md">1.0.1 specification</a>. Please note that the LRS in place (<a href="https://github.com/Apereo-Learning-Analytics-Initiative/Larissa/">Larissa LRS</a>) only implements the Statements-API, as noted in the <a href="README">https://github.com/Apereo-Learning-Analytics-Initiative/Larissa/blob/master/README.md#xapi-coverage</a>.
+API documentation can be found <a href="https://github.com/adlnet/xAPI-Spec/blob/1.0.1/xAPI.md#stmtapi">here</a> as part of the Experience API (xAPI) <a href="https://github.com/adlnet/xAPI-Spec/blob/1.0.1/xAPI.md">1.0.1 specification</a>. Please note that the LRS in place (<a href="https://github.com/Apereo-Learning-Analytics-Initiative/Larissa/">Larissa LRS</a>) only implements the Statements-API (endpoint /statements), as noted in the <a href="README">https://github.com/Apereo-Learning-Analytics-Initiative/Larissa/blob/master/README.md#xapi-coverage</a>.
+
+credentials for the API are larissa/lrstester
 
 ### Assorted Resources for interacting with the LRS:
 
@@ -20,7 +22,7 @@ API documentation can be found <a href="https://github.com/adlnet/xAPI-Spec/blob
 
 An instance of the SURFnet <a href="https://github.com/SURFnet/OpenOnderwijsAPI">Open Onderwijs API</a> will be hosted at
 
-[placeholder-2]
+http://46.149.20.182:8000
 
 This API will respond to standard HTTP/1.1 requests with appropriately-formatted data. (An OPTIONS request will return several valid Content-Types for both in- and output, of which it warrants mentioning that the only one appearing in both lists is `"application/json"`.)
 
