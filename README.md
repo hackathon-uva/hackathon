@@ -18,7 +18,9 @@ The LRS comes pre-filled with some generated data to get you started. Credential
 
 * <a href="https://github.com/adlnet/xAPI-Dashboard">xAPI-Dashboard</a>. A JavaScript-library for xAPI analysis and chart-generation.
 
-* some standard verbs for the LRS can be found <a href="http://www.adlnet.gov/expapi/verbs/">here</a>.
+* some <a href="http://www.adlnet.gov/expapi/verbs/">standard verbs</a> for the LRS.
+
+* some <a href="http://blog.saltbox.com/blog/2012/11/28/making-statements-tin-can-api-best-practices/">best practices</a> for creating statements.
 
 ## Open Onderwijs API
 
