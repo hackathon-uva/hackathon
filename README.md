@@ -22,6 +22,7 @@ The LRS comes pre-filled with some generated data to get you started. Credential
 
 * some <a href="http://blog.saltbox.com/blog/2012/11/28/making-statements-tin-can-api-best-practices/">best practices</a> for creating statements.
 
+* <a href="http://tincanapi.com/wp-content/assets/e-book/Anatomy-of-a-Tin-Can-Statement-e-Book.pdf">Anatomy of a Tin Can Statement</a> is a PDF book containing lots of info and examples on Statement design.
 ## Open Onderwijs API
 
 An instance of the SURFnet <a href="https://github.com/SURFnet/OpenOnderwijsAPI">Open Onderwijs API</a> will be hosted at
